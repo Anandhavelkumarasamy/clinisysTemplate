@@ -1,0 +1,201 @@
+.navbarBrand{
+    background-color: #053F5C;
+    padding:10px;
+    width:100%;
+    
+}
+.navitem a{
+    color:white;
+    margin-left: 50px;
+    
+   
+}
+li{
+    list-style-type: none;
+}
+.navbartext{
+    color: white !important;
+    margin-left: 20px; 
+    margin-right: 50px;
+    border-right: 1px solid white; 
+    padding-right: 50px;
+   
+  }
+  .navbartexts{
+    color: white !important;
+    margin-left: 20px; 
+    margin-right: 50px;
+  }
+ 
+.dropdown{
+    position:relative;
+    left:60px;
+}
+
+.outercontainer{
+    border:2px solid #D4D4D4;
+    border-radius: 5px;
+    padding:13px;
+    position: relative;
+    top: 30px;
+}
+.dropdown{
+    position: relative;
+    right: 30px;
+    border-right: 1px solid grey;
+}
+
+.inputBox{
+    position: relative;
+    right: 10px;
+    top: 10px;
+    border:none;
+     
+}
+.btn{
+    position: relative;
+    left: 44%;
+    bottom: 36px;
+   
+    width:100%;
+    height: 65px;
+}
+.phone{
+    position:relative;
+    right:40px;
+}
+.phoneimage{
+    width:30px;
+    height:30px;
+}
+.images{
+    position:relative;
+    margin-right: 30px;
+    top:15px;
+}
+.slash{
+    border-left: 2px solid #0000001A;
+  
+}
+.platform{
+    background-image: url('../component/assests/4427304-01\ 1.png');
+    font-family: Arial, sans-serif;
+    background-color: #ADD8E6;
+    background-repeat: no-repeat;
+    /* display: flex; */
+    position: relative;
+    left:55px;
+    right:55px;
+    /* width:1400px;
+    height:600px; */
+    width: 95%;
+    height :100%
+
+}
+.change{
+    color:orange;
+}
+.colorchange{
+    background-color: skyblue;
+    padding:5px;
+    border-radius:5px;
+    margin-left:50px;
+}
+.dotchange{
+    margin-left:50px;
+    margin-bottom:50px;
+}
+.coloring1{
+    background-color: 	#c1c13a;
+}
+.coloring2{
+  background-color: #ADD8E6;
+}
+.coloring3{
+  background-color: rgb(49, 49, 135);
+}
+.coloring4{
+    background-color: rgb(219, 217, 212);
+}
+.coloring5{
+  background-color:rgb(177, 177, 96);
+}
+.coloring6{
+    background-color:  #F2F2F2;
+
+}
+.analyser{
+    background-image: url('../component/assests/Ellipse\ 10.png');
+    width:100%;
+    height:60%;
+    background-repeat: no-repeat;
+    position: relative;
+    left:50px;
+}
+.slide{
+    background: url('../component/assests/Rectangle\ 61.png');
+    background-size: cover; 
+   
+    background-position: center; 
+    padding: 20px;
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+    height:100vh; 
+    text-align: center; 
+    position: relative;  
+
+}
+.footer{
+    background-color: 
+    #053F5C;
+}
+.rectangleshape{
+    background: url('../component//assests/Rectangle\ 80.png');
+    width:100%;
+    height:60%;
+    background-repeat: no-repeat;
+    
+}
+@media (min-width: 400px) and (max-width:700px){
+    .navbarBrand{
+        background-color:red;
+        padding:10px;
+        width:100%;
+        
+    }
+    
+}
+
+.rounds{
+    background-image: url('../component/assests/Ellipse\ 4.png');
+    width:80px;
+    height:80px;
+    background-repeat: no-repeat;
+    border-radius: 0%; 
+}
+
+.card2 {
+    background-color: rgba(5, 63, 92, 0.4);
+    width: 350px;
+    height: 180px;
+
+}
+.card3 {
+    background-color: rgba(5, 63, 92, 0.4);
+    width: 350px;
+    height: 180px;
+
+}
+.btn1 {
+    background-color: #F5F29F;
+}
+.btn2 {
+    background-color: rgba(255, 204, 102, 1);
+}
+
+.card1 {
+    background-color: #04BFBF;
+    
+}

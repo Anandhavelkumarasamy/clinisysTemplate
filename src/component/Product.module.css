@@ -1,0 +1,13 @@
+.firstcontainer{
+    background-color: skyblue;
+    position: relative;
+    margin-right: 50px;
+    margin-left:50px;
+}
+.firstcontainercolor{
+    color:orange;
+}
+.secondcontainercolor{
+    background-color: rgba(0, 0, 0, 0.03);
+}
+  
